@@ -39,7 +39,7 @@ export const ChatInput = ({
                     setInput("");
                   }
                 }}
-                placeholder="Enter your question..."
+                placeholder="Pregunta algo..."
                 className="resize-none bg-zinc-800 hover:bg-zinc-900 rounded-xl text-base"
               />
 
